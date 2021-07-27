@@ -1,19 +1,15 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{C4139382-AD4C-4659-A328-E459F77F68FC}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
     <Files>
       <File FileName="CleanArchitecture.Domain/Interfaces/IProductRepository.cs" Line="18" Column="52" />
+      <File FileName=".gitignore" Line="4" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CleanArchitecture" expanded="True">
             <Node name="Solution Items" expanded="True">
-              <Node name="Sln_Images" expanded="True" />
-            </Node>
-            <Node name="CleanArchitecture.Domain" expanded="True">
-              <Node name="Interfaces" expanded="True">
-                <Node name="IProductRepository.cs" selected="True" />
-              </Node>
+              <Node name="/Users/afonsopereira/Projects/CleanArchitecture/.gitignore" selected="True" />
             </Node>
           </Node>
         </State>
