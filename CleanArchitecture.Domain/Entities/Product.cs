@@ -46,7 +46,7 @@ namespace CleanArchitecture.Domain.Entities
 
             DomainExceptionValidation.When(stock < 0, "Invalid product stock");
 
-            DomainExceptionValidation.When(image.Length < 250, "Product description to short, min lenght is 5");
+            DomainExceptionValidation.When(image?.Length > 250, "Product image to long, max length is 250");
 
             Name = name;
             Price = price;

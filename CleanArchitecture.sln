@@ -24,6 +24,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sln_Images", "Sln_Images", 
 		clean_architecture.png = clean_architecture.png
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Domain.Tests", "CleanArchitecture.Domain.Tests\CleanArchitecture.Domain.Tests.csproj", "{B97988C1-D873-40BC-B8A8-B83450F33160}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -50,6 +52,10 @@ Global
 		{C4139382-AD4C-4659-A328-E459F77F68FC}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{C4139382-AD4C-4659-A328-E459F77F68FC}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{C4139382-AD4C-4659-A328-E459F77F68FC}.Release|anycpu.Build.0 = Release|Any CPU
+		{B97988C1-D873-40BC-B8A8-B83450F33160}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{B97988C1-D873-40BC-B8A8-B83450F33160}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{B97988C1-D873-40BC-B8A8-B83450F33160}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{B97988C1-D873-40BC-B8A8-B83450F33160}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
