@@ -49,6 +49,7 @@ namespace CleanArchitecture.Domain.Entities
             DomainExceptionValidation.When(image?.Length > 250, "Product image to long, max length is 250");
 
             Name = name;
+            Description = description;
             Price = price;
             Stock = stock;
             Image = image;
